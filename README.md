@@ -1,4 +1,4 @@
-# 📰 TruthHub — Decentralized & Community-Driven News Aggregator & Fact-Checker
+# 📰 TruthHub — Decentralized & Community-Driven News Aggregator & Fact-Checker 
 
 ### 🌐 Live Demo  
 🔗 [TruthHub Website](https://news-aggregator-gules.vercel.app/auth)
